@@ -8,4 +8,4 @@
 * klasa.js (master)
 
 The rest you can install using `npm i` but if that doesn't work, do the following below.
-`npm i animequote kitsu.js discordjs/discord.js dirigeants/klasa klasa-dashboard-hooks klasa-member-gateway ladybug-fetch moment mongodb node-fetch pg random-puppy saucenao snekfetch superagent util zlib axios canvas canvas-constructor cheerio cli-table-redemption crypto discord.js-lavalink fast-levenshtein figlet file-type fs-nextra jimp`
+```npm i animequote kitsu.js discordjs/discord.js dirigeants/klasa klasa-dashboard-hooks klasa-member-gateway ladybug-fetch moment mongodb node-fetch pg random-puppy saucenao snekfetch superagent util zlib axios canvas canvas-constructor cheerio cli-table-redemption crypto discord.js-lavalink fast-levenshtein figlet file-type fs-nextra jimp```
