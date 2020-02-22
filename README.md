@@ -7,5 +7,18 @@
 * discord.js (master)
 * klasa.js (master)
 
-The rest you can install using `npm i` but if that doesn't work, do the following below.
-```npm i animequote kitsu.js discordjs/discord.js dirigeants/klasa klasa-dashboard-hooks klasa-member-gateway ladybug-fetch moment mongodb node-fetch pg random-puppy saucenao snekfetch superagent util zlib axios canvas canvas-constructor cheerio cli-table-redemption crypto discord.js-lavalink fast-levenshtein figlet file-type fs-nextra jimp```
+The rest you can install using `npm i` but if that doesn't work, install them individually from package.json.
+
+# How to host
+* You'll need a VPS or Dedicated server (or locally if you want to)
+* Node.js & NPM installed to your OS.
+* `npm i -g pm2`
+
+Start bot
+`pm2 start airi.js`
+
+Stop bot
+`pm2 stop airi.js`
+
+Restart bot
+`pm2 restart airi.js`
