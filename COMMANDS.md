@@ -1,8 +1,8 @@
-![Airi](https://i.imgur.com/KBw3mCL.png "Airi")
+![alt text](https://i.imgur.com/KBw3mCL.png "Airi")
+---
+[Website](https://airi.moe/) | [Support](https://discord.gg/Me6sdJb) | [Invite Link](https://discordapp.com/oauth2/authorize?client_id=676520944474259466&permissions=268495926&scope=bot)
 
-[Invite Link](https://discordapp.com/oauth2/authorize?client_id=676520944474259466&permissions=268495926&scope=bot)
 # Commands
-
 
 ## Analyze / 6 Commands
 | Command Name | Aliases  | Description              |
